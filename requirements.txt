@@ -1,0 +1,10 @@
+psutil
+pymysql
+pandas
+requests
+python-nmap
+cryptography
+mysql-connector-python
+pywinrm
+paramiko
+python-dotenv
